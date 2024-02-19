@@ -7,6 +7,20 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "HelloPython", "HelloPython\
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "HelloName", "HelloName\HelloName.pyproj", "{D8FDA572-F2D0-4285-8D25-A224649665C7}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "CircleRadius", "CircleRadius\CircleRadius.pyproj", "{F33E4812-B32B-43F2-8C33-72B3E766F94C}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "CelsiusToFahrenheit", "CelsiusToFahrenheit\CelsiusToFahrenheit.pyproj", "{AB31A939-A903-47C2-B08D-C448A4AFEE9D}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "AreaOfTriangle", "AreaOfTriangle\AreaOfTriangle.pyproj", "{F97EAF77-2F7F-43C8-BB23-62D37011E161}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "AreaOfTrapezius", "AreaOfTrapezius\AreaOfTrapezius.pyproj", "{1BD85EC8-A3BC-4EE3-A0A9-5F91897B3828}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "InchToCentimeters", "InchToCentimeters\InchToCentimeters.pyproj", "{143202F3-C663-4265-B521-C5683994C7F6}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "USDollarsToBGLev", "USDollarsToBGLev\USDollarsToBGLev.pyproj", "{8CC259E0-CA49-4D63-A4EE-16749AD95EA0}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "VeggiesAndFruitShop", "VeggiesAndFruitShop\VeggiesAndFruitShop.pyproj", "{DEDD598B-831E-40AF-B5FA-4B02F4BB7BFC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,6 +31,20 @@ Global
 		{93A73658-56D9-4368-A707-623AD3035D1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D8FDA572-F2D0-4285-8D25-A224649665C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{D8FDA572-F2D0-4285-8D25-A224649665C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F33E4812-B32B-43F2-8C33-72B3E766F94C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F33E4812-B32B-43F2-8C33-72B3E766F94C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB31A939-A903-47C2-B08D-C448A4AFEE9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB31A939-A903-47C2-B08D-C448A4AFEE9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F97EAF77-2F7F-43C8-BB23-62D37011E161}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F97EAF77-2F7F-43C8-BB23-62D37011E161}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BD85EC8-A3BC-4EE3-A0A9-5F91897B3828}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BD85EC8-A3BC-4EE3-A0A9-5F91897B3828}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{143202F3-C663-4265-B521-C5683994C7F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{143202F3-C663-4265-B521-C5683994C7F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CC259E0-CA49-4D63-A4EE-16749AD95EA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CC259E0-CA49-4D63-A4EE-16749AD95EA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEDD598B-831E-40AF-B5FA-4B02F4BB7BFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEDD598B-831E-40AF-B5FA-4B02F4BB7BFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,2 +1,2 @@
 name = input("Моля, въведете вашето име: ")
-print("Hello,", name + "!")
+print("Hello, ", name + "!")
